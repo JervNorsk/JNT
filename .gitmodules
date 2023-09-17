@@ -1,0 +1,4 @@
+[submodule "integrations/unity"]
+	path = integrations/unity
+	url = https://github.com/JervNorsk/JNT
+	branch = integrations/unity/develop
