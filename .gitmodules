@@ -1,4 +1,16 @@
 [submodule "integrations/unity"]
 	path = integrations/unity
 	url = https://github.com/JervNorsk/JNT
-	branch = integrations/unity/develop
+	branch = integration/unity/develop
+[submodule "integrations/blender"]
+	path = integrations/blender
+	url = https://github.com/JervNorsk/JNT
+	branch = integration/blender/develop
+[submodule ".github/softwares/unity"]
+	path = .github/softwares/unity
+	url = https://github.com/JervNorsk/JNT
+	branch = github/software/unity
+[submodule ".github/environment/itch"]
+	path = .github/environment/itch
+	url = https://github.com/JervNorsk/JNT
+	branch = github/environment/itch
