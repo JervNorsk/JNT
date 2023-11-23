@@ -6,11 +6,11 @@
 	path = integrations/blender
 	url = https://github.com/JervNorsk/JNT
 	branch = integration/blender/develop
-[submodule ".github/softwares/unity"]
-	path = .github/software/unity
+[submodule "integrations/github/actions/unity"]
+	path = integrations/github/actions/unity
 	url = https://github.com/JervNorsk/JNT
-	branch = github/software/unity
-[submodule ".github/environment/itch"]
-	path = .github/environment/itch
+	branch = integration/github/action/unity
+[submodule "integrations/github/actions/itch"]
+	path = integrations/github/actions/itch
 	url = https://github.com/JervNorsk/JNT
-	branch = github/environment/itch
+	branch = integration/github/action/itch
