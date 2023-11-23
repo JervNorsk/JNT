@@ -7,7 +7,7 @@
 	url = https://github.com/JervNorsk/JNT
 	branch = integration/blender/develop
 [submodule ".github/softwares/unity"]
-	path = .github/softwares/unity
+	path = .github/software/unity
 	url = https://github.com/JervNorsk/JNT
 	branch = github/software/unity
 [submodule ".github/environment/itch"]
